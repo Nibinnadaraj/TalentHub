@@ -1,0 +1,19 @@
+//loaders
+export const ENABLE_LOADER = 'ENABLE_LOADER';
+export const DISABLE_LOADER = 'DISABLE_LOADER';
+
+// login
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_RESPONSE = 'LOGIN_RESPONSE';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+export const LOGOUT_USER = 'LOGOUT_USER';
+
+
+//Key
+export const REFRESH_TOKEN = 'REFRESH_TOKEN';
+
+//Profilw
+
+export const PROFILE_DATA_REQUEST = 'PROFILE_DATA_REQUEST';
+export const PROFILE_DATA_RESPONSE = 'PROFILE_DATA_RESPONSE';
+
